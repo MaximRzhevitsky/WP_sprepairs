@@ -1,0 +1,108 @@
+/*
+Theme Name:     wpkites-child
+Theme URI:      http: //sprepairs.com/
+Description:    Дочерняя тема для темы wpkites
+Author:         Maxim Rzhevitskiy
+Author URI:     http: //merzhev7@gmail.com
+Template:       wpkites
+Version:        0.1.0
+*/
+
+@import url("../wpkites/style.css");
+
+
+.navbar ul li a:hover{
+    color: #dd9933!important;
+}
+
+.navbar .nav .nav-item.active .nav-link{
+    color: #dd9933!important;
+}
+
+.page-title{ display: none;}
+
+.entry-content{
+    display:flex;
+    flex-flow: row wrap;
+}
+
+.entry-header{
+    text-align: center;
+}
+
+.page-title{ display: none;}
+
+.site-title a{color: #dd9933!important;}
+
+.admin-link a{
+    color: #dd9933!important;
+}
+.admin-link{
+
+    margin-left: 90%;
+}
+
+
+.page-section-space{
+ padding: 1rem 0 4.375rem;
+}
+
+label{
+    display:inline;
+}
+
+
+
+
+th.col_name {
+    width: 80%;
+}
+
+th.col_value {
+    width: 20%;
+}
+
+.breadcrumb-overlay{
+    background: url("tools.jpg") repeat-y fixed;
+}
+
+.left{float:left;}
+.right{float:right;}
+.post-repairs{
+    text-align: center;
+}
+
+.total{clear: both;}
+
+.thumbnail-repairs{
+    text-align: center;
+}
+
+.post-thumbnail{
+    width: 500px!important;
+    /*height: 300px!important;*/
+    margin: auto;
+}
+
+
+@media (min-width: 200px) and (max-width: 700px) {
+    .left, .right {
+        float: none;
+    }
+}
+
+table{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,407 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Make "
+"Tables Responsive\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2023-03-14 14:06+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Nikolay "
+"Nikolov\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.2.2\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: make-tables-responsive.php:60
+msgid ""
+"Error: The PHP on your "
+"server does not support "
+"Multibyte String. The "
+"plugin Make Tables "
+"Responsive requires it. "
+"Please contact your "
+"hosting provider and ask "
+"them to enable Multibyte "
+"String."
+msgstr ""
+
+#: make-tables-responsive.php:73
+msgid ""
+"Are you sure? Your "
+"current multi-row "
+"settings will be "
+"permanently lost."
+msgstr ""
+
+#: make-tables-responsive.php:74
+msgid ""
+"Are you sure? Your "
+"current single-row "
+"settings will be "
+"permanently lost."
+msgstr ""
+
+#: make-tables-responsive.php:75
+msgid ""
+"Are you sure? Your "
+"current global settings "
+"will be permanently lost."
+msgstr ""
+
+#: make-tables-responsive.php:85
+#: make-tables-responsive.php:86
+#: make-tables-responsive.php:380
+msgid ""
+"Make Tables Responsive"
+msgstr ""
+
+#: make-tables-responsive.php:97
+msgid ""
+"You do not have "
+"sufficient permissions "
+"to access this page."
+msgstr ""
+
+#: make-tables-responsive.php:387
+msgid "Done"
+msgstr ""
+
+#: make-tables-responsive.php:390
+msgid "Invalid Data"
+msgstr ""
+
+#: make-tables-responsive.php:396
+msgid "Multi-Row Tables"
+msgstr ""
+
+#: make-tables-responsive.php:399
+msgid "Single-Row Tables"
+msgstr ""
+
+#: make-tables-responsive.php:402
+#: make-tables-responsive.php:706
+msgid "Global Settings"
+msgstr ""
+
+#: make-tables-responsive.php:410
+msgid ""
+"Affect Multi-Row Tables"
+msgstr ""
+
+#: make-tables-responsive.php:414
+#: make-tables-responsive.php:570
+msgid ""
+"Enable on screens "
+"smaller than:"
+msgstr ""
+
+#: make-tables-responsive.php:422
+#: make-tables-responsive.php:579
+msgid ""
+"Enable for tables with "
+"at least:"
+msgstr ""
+
+#: make-tables-responsive.php:427
+#: make-tables-responsive.php:584
+msgid "columns"
+msgstr ""
+
+#: make-tables-responsive.php:434
+#: make-tables-responsive.php:591
+msgid ""
+"Enable in post/page "
+"content"
+msgstr ""
+
+#: make-tables-responsive.php:443
+#: make-tables-responsive.php:600
+msgid "Enable in widgets"
+msgstr ""
+
+#: make-tables-responsive.php:450
+msgid ""
+"Layout of Multi-Row "
+"Tables"
+msgstr ""
+
+#: make-tables-responsive.php:456
+msgid ""
+"Hide the \"tfoot\" tag"
+msgstr ""
+
+#: make-tables-responsive.php:462
+msgid ""
+"Limit the left side "
+"width to (leave empty "
+"for no limit):"
+msgstr ""
+
+#: make-tables-responsive.php:470
+msgid ""
+"Limit the right side "
+"width to (leave empty "
+"for no limit):"
+msgstr ""
+
+#: make-tables-responsive.php:481
+msgid ""
+"Put the column names on "
+"the right side (suitable "
+"for RTL languages)"
+msgstr ""
+
+#: make-tables-responsive.php:490
+msgid ""
+"Align the content of the "
+"right side to the left"
+msgstr ""
+
+#: make-tables-responsive.php:499
+msgid ""
+"Show a vertical line "
+"separator between the "
+"two columns (requires "
+"the \"Limit the left "
+"side width to\" option "
+"to be set above and the "
+"\"Disable styling\" "
+"option to not be checked)"
+msgstr ""
+
+#: make-tables-responsive.php:507
+msgid ""
+"Style of Multi-Row Tables"
+msgstr ""
+
+#: make-tables-responsive.php:513
+#: make-tables-responsive.php:660
+msgid "Disable styling"
+msgstr ""
+
+#: make-tables-responsive.php:519
+#: make-tables-responsive.php:666
+msgid ""
+"Background color of "
+"cells in even rows:"
+msgstr ""
+
+#: make-tables-responsive.php:527
+msgid ""
+"Border color for cells "
+"in even rows:"
+msgstr ""
+
+#: make-tables-responsive.php:535
+#: make-tables-responsive.php:674
+msgid ""
+"Background color of "
+"cells in odd rows:"
+msgstr ""
+
+#: make-tables-responsive.php:543
+msgid ""
+"Border color for cells "
+"in odd rows:"
+msgstr ""
+
+#: make-tables-responsive.php:554
+msgid ""
+"Save Multi-Row Settings"
+msgstr ""
+
+#: make-tables-responsive.php:557
+msgid ""
+"Reset Multi-Row Settings"
+msgstr ""
+
+#: make-tables-responsive.php:567
+msgid ""
+"Affect Single-Row Tables"
+msgstr ""
+
+#: make-tables-responsive.php:575
+msgid "px"
+msgstr ""
+
+#: make-tables-responsive.php:607
+msgid ""
+"Layout of Single-Row "
+"Tables"
+msgstr ""
+
+#: make-tables-responsive.php:611
+msgid "Layout:"
+msgstr ""
+
+#: make-tables-responsive.php:620
+msgid "Make 1 column"
+msgstr ""
+
+#: make-tables-responsive.php:621
+msgid ""
+"Make 2 equal columns"
+msgstr ""
+
+#: make-tables-responsive.php:622
+msgid ""
+"Make 3 equal columns"
+msgstr ""
+
+#: make-tables-responsive.php:623
+msgid ""
+"Make 4 equal columns"
+msgstr ""
+
+#: make-tables-responsive.php:624
+msgid ""
+"Make a fluid row without "
+"styling"
+msgstr ""
+
+#: make-tables-responsive.php:633
+msgid "Align cell content:"
+msgstr ""
+
+#: make-tables-responsive.php:642
+msgid "No change"
+msgstr ""
+
+#: make-tables-responsive.php:643
+msgid "Left"
+msgstr ""
+
+#: make-tables-responsive.php:644
+msgid "Center"
+msgstr ""
+
+#: make-tables-responsive.php:645
+msgid "Right"
+msgstr ""
+
+#: make-tables-responsive.php:654
+msgid ""
+"Style of Single-Row "
+"Tables"
+msgstr ""
+
+#: make-tables-responsive.php:682
+msgid ""
+"Border color for cells:"
+msgstr ""
+
+#: make-tables-responsive.php:693
+msgid ""
+"Save Single-Row Settings"
+msgstr ""
+
+#: make-tables-responsive.php:696
+msgid ""
+"Reset Single-Row Settings"
+msgstr ""
+
+#: make-tables-responsive.php:709
+msgid ""
+"Disable by class of the "
+"table tag (comma-"
+"separated list, without "
+"a dot):"
+msgstr ""
+
+#: make-tables-responsive.php:717
+msgid ""
+"Disable by class of the "
+"parent element of the "
+"table tag (comma-"
+"separated list, without "
+"a dot). Use this option "
+"for classes added to the "
+"table block settings in "
+"the editor:"
+msgstr ""
+
+#: make-tables-responsive.php:726
+msgid ""
+"Disable by ID of the "
+"table tag (comma-"
+"separated list, without "
+"a hash):"
+msgstr ""
+
+#: make-tables-responsive.php:735
+msgid ""
+"Disable in post and page "
+"content by post/page ID "
+"(comma-separated list of "
+"numbers, does not affect "
+"widgets):"
+msgstr ""
+
+#: make-tables-responsive.php:746
+msgid ""
+"Enable ONLY in post and "
+"page content by post/"
+"page ID (comma-separated "
+"list of numbers, leave "
+"empty to enable "
+"everywhere, does not "
+"affect widgets):"
+msgstr ""
+
+#: make-tables-responsive.php:759
+msgid ""
+"Disable for tables "
+"without a header section "
+"(a <thead> tag)"
+msgstr ""
+
+#: make-tables-responsive.php:768
+msgid ""
+"Save Global Settings"
+msgstr ""
+
+#: make-tables-responsive.php:771
+msgid ""
+"Reset Global Settings"
+msgstr ""
+
+#: make-tables-responsive.php:1852
+msgid "Settings"
+msgstr ""
